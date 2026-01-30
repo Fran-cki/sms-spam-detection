@@ -30,7 +30,7 @@ app.add_middleware(
 # 2. Définir le format de la donnée d'entrée
 class DATA(BaseModel):
     text: str
-    seuil: int
+    seuil: float
 
 @app.get("/")
 def home():
