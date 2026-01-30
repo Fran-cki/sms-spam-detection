@@ -1,16 +1,22 @@
 1. Une application web accessible via une URL 
-
+	https://spam-detection-ai.vercel.app/
 
 2 Un modèle ML entraîné ou un script d’entraînement reproductible 
-
+	Dans la repository (Dossier "Construction")
 
 3. Le code source accessible sur GitHub. En particulier, un README.md contant notamment : 
 	a. Le nom de notre institut : ISPM – Institut Supérieur Polytechnique de Madagascar et l’adresse de 
-	notre site web www.ispm-edu.com 
+	notre site web
+	=> www.ispm-edu.com 
 
 
-	b. Ne nom de chaque membre de l’équipe et son rôle respectif  
-
+	b. Ne nom de chaque membre de l’équipe et son rôle respectif 
+		- IMTICIA5 : VELOMITASAONA Francki Aldo (Rôle : Data science)
+		- IMTICIA5 : RAKOTONDRAMANANA Mamisoa Désiré (Rôle : Dévéloppeur frontend)
+		- IMTICIA5 : RAMAMPIANDRA Andriiaina Landry (Rôle : Dévéloppeur backend)
+		- IGGLIA5 : BEZARA Donatien Jamie (Rôle : Collecte dataset)
+		- IMTICIA5 : RAKOTOMAMONJY Sitrakiniaina José (Rôle : Designer)
+		- ESIIA5 : ANDRIARIMANANA Andy Andriniaina (Rôle : DevOps)
 
 	c. La description du stack technologique 
 		Pour ce projet, nous avons choisi un stack moderne, robuste et orienté "Production" :
@@ -45,7 +51,7 @@
 
 
 	e. Les méthode ML 
-		Ton projet combine plusieurs concepts clés du ML :
+		Notre projet combine plusieurs concepts clés du Machine Learning :
 
 		Apprentissage Supervisé : Le modèle apprend à partir d'exemples déjà annotés (Spam/Ham).
 
@@ -71,5 +77,7 @@
 		Répartition : 80% des données pour l'entraînement (Train Set) et 20% pour l'évaluation finale (Test Set).
 
 	g. Le lien vers l’application web hébergée. 
+		https://spam-detection-ai.vercel.app/
 
 	h. Le lien vers la vidéo de démonstration (facultatitif) 
+		https://spam-detection-ai.vercel.app/explication#demo-video
